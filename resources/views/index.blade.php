@@ -7,6 +7,7 @@
 
 
 <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="{{ secure_asset('css/app.css') }}">
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
